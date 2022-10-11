@@ -321,7 +321,7 @@ HS_FlareGun = ArtilleryDefault:new{
 	DamageCenter = 2,
 	Wider = false,
 	PowerCost = 0, --AE Change
-	Damage = 1,---USED FOR TOOLTIPS
+	Damage = 2,---USED FOR TOOLTIPS
 	BounceAmount = 1,
 	Explosion = "",
 	ExplosionCenter = "ExploArt1",
@@ -392,11 +392,13 @@ HS_FlareGun_B = HS_FlareGun:new{
 	UpgradeDescription = "Increases damage by 1.",
 	DamageOuter = 1,
 	DamageCenter = 3,
+	Damage = 3,
 }
 
 HS_FlareGun_AB = HS_FlareGun:new{
 	DamageOuter = 1,
 	DamageCenter = 3,
+	Damage = 3,
 	AllyDamage = false,
 		TipImage = {
 		Unit = Point(2,4),

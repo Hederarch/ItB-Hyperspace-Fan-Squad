@@ -19,9 +19,9 @@ function mod:init()
 end
 
 --New shop
-    --modApi:addWeaponDrop("VS_Prime_Driver")
-    --modApi:addWeaponDrop("VS_Ranged_ShieldArti")
-    --modApi:addWeaponDrop("VS_Brute_Magnum")
+    modApi:addWeaponDrop("HS_Chaingun")
+    modApi:addWeaponDrop("HS_Harpoon")
+    modApi:addWeaponDrop("HS_FlareGun")
 
 function mod:load(options, version)
 	-- after we have added our mechs, we can add a squad using them.
