@@ -9,7 +9,7 @@
 This mod adds the leading jets from each of Sleeper Games' hit titles as playable Mechs.
 
 ![The Paw](https://media.discordapp.net/attachments/699323570211520556/1029253805956669490/paw_demo.gif)
-**The Paw** from *Hyperpace Dogfights* comes with the GC Chaingun, a simple but versatile weapon.
+**The Paw** from *Hyperspace Dogfights* comes with the GC Chaingun, a simple but versatile weapon.
 
 ![chaingun demo](https://cdn.discordapp.com/attachments/689555029471920133/1029249125172125716/chaingun_finished.gif)
 
