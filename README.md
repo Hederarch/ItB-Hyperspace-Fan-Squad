@@ -21,7 +21,7 @@ This mod adds the leading jets from each of Sleeper Games' hit titles as playabl
 ![The Swirl](https://cdn.discordapp.com/attachments/699323570211520556/1029253725874815026/swirl_demo.gif)
 and the ship from *Swirl W@tch* comes with the Chaff Launcher, a large smoke bomb that works great for crowd control.
 
-![chaff demo](https://cdn.discordapp.com/attachments/689555029471920133/1029249172228030495/chaff_finished.gif)
+![chaff demo](https://cdn.discordapp.com/attachments/1006298746658771034/1029437727827054662/chaff_finished_fixed.gif)
 
 and as an added bonus, this squad also comes with a brand new mech palette based on the bright sunset tones of Hyperspace Dogfights, **Hyper Hot Neon**!
 
